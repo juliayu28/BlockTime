@@ -1,14 +1,14 @@
 # Block Time
 
-Block Time is an AI-powered time management app for iOS that helps you build your perfect day with ease. Using a reusable block-based approach to time management, this app allows you to schedule your daily activities with an intuitive drag-and-drop interface.
+Block Time is an AI-powered time management app for iOS that helps you build your perfect day with ease. Using a reusable block-based approach to time management, this app allows you to schedule your daily activities with an intuitive drag-and-drop interface and an emphasis on flexibility. 
 
 ## Features
 
 ### 🧩 Drag and Drop Activity Blocks
 
-- Create custom activity blocks with specific durations and colors
-- Reuse your most common activities without having to recreate them
+- Create custom and reusable activity blocks with specific durations, colors, and even emojis!
 - Quickly build your daily schedule with simple drag and drop gestures
+- Blocks let you incorporate flexibility into your daily schedule, allowing you to schedule an activity into varying time slots, as we know that routines can change and sometimes life happens
 
 https://github.com/user-attachments/assets/d141ac76-c44d-4423-af7a-dfd48f90fcbe
 
