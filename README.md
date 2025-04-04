@@ -44,9 +44,9 @@ https://github.com/user-attachments/assets/636d2f30-d12d-4fd0-b7a2-1286500366fa
 - Block Time also lets you seamlessly export your Block Time schedule to both Apple Calendar and Google Calendar 
 - See your events in the Apple Calendar widget on your home screen
 
-<img width="285" alt="Integrated with both Apple and Google Calendar" src="https://github.com/user-attachments/assets/ed72e32f-64e8-42be-b294-560cdf5c589c" />
-<img width="285" alt="Exported Events" src="https://github.com/user-attachments/assets/5bd3602c-22b1-4559-9de2-2026aa109343" />
-<img width="285" alt="See events on Calendar Widget" src="https://github.com/user-attachments/assets/262e3edb-a77d-4f56-bf82-3df522aa754e" />
+<img width="250" alt="Integrated with both Apple and Google Calendar" src="https://github.com/user-attachments/assets/ed72e32f-64e8-42be-b294-560cdf5c589c" />
+<img width="250" alt="Exported Events" src="https://github.com/user-attachments/assets/5bd3602c-22b1-4559-9de2-2026aa109343" />
+<img width="250" alt="See events on Calendar Widget" src="https://github.com/user-attachments/assets/262e3edb-a77d-4f56-bf82-3df522aa754e" />
 
 
 
