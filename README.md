@@ -12,8 +12,7 @@ Block Time is an AI-powered time management app for iOS that helps you build you
 - Quickly build your daily schedule with simple drag and drop gestures
 - Blocks let you incorporate flexibility into your daily schedule, allowing you to schedule an activity into varying time slots, as we know that routines can change and sometimes life happens
 
-<img src="https://github.com/user-attachments/assets/04900034-0b64-4789-9fb5-3bc0ab76b4cf" width="359">
-
+<img src="https://github.com/user-attachments/assets/70103312-c93f-48ee-ab72-f12a406f500e" width="359">
 
 ### 🤖 AI-Powered Schedule Generator
 
@@ -21,8 +20,7 @@ Block Time is an AI-powered time management app for iOS that helps you build you
 - Specify preferences like "Plan a balanced day with chores and fun" or "Prioritize healthy activities"
 - Plan your perfect day within seconds catered to your student, professional, or personal schedule
 
-<img src="https://github.com/user-attachments/assets/f31d5327-c5c4-444f-8b1d-361479bd6a4a" width="359">
-
+<img src="https://github.com/user-attachments/assets/ce990418-02f4-4341-a206-5810fffdbf45" width="359">
 
 
 
@@ -34,8 +32,7 @@ Block Time is an AI-powered time management app for iOS that helps you build you
 
 <img width="359" alt="Edit Event" src="https://github.com/user-attachments/assets/42f878bd-7521-41d2-bd5b-729543b0f22a" />
 
-<img src="https://github.com/user-attachments/assets/0f5d8751-21eb-415c-956b-60cf496434e9" width="359">
-
+<img src="https://github.com/user-attachments/assets/0a00dbf4-463a-4733-bdfa-3bbee0245b24" width="359">
 
 ### 📱 Calendar Integration
 - Block Time uses local data persistence so all your events are saved locally and can be accessed offline
